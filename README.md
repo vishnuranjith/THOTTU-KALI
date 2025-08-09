@@ -4,7 +4,7 @@
 # Thottu Kali 🎯
 
 
-## Basic Details
+## **THOTTU KALI** is a fun browser-based tapping game where you tap blue circles, dodge red ones, and race against time to score points.
 ### Team Name: Vishnu M R's Team
 
 
@@ -86,17 +86,13 @@ thottu-kali/
 
 
 ### Project Demo
-# Video
+https://github.com/vishnuranjith/THOTTU-KALI/blob/main/Screen%20Recording%202025-08-09%20054931.mp4
 
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Vishnu M R-Frontend
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
